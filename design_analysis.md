@@ -2,7 +2,7 @@
 
 ## 1. Genel Bakış
 
-Sağlanan görseller, mevcut ABKÖ Meslek Keşif Platformu için modern, dinamik ve kullanıcı dostu bir arayüz önermektedir. Tasarım, özellikle genç kullanıcılara hitap eden canlı renkler, akıcı geçişler ve ilgi çekici görsel öğelerle zenginleştirilmiştir. Platformun ana amacı olan meslek keşfi ve VR simülasyonları, görsel olarak vurgulanmıştır.
+Sağlanan görseller, mevcut VR Meslek Keşif Platformu için modern, dinamik ve kullanıcı dostu bir arayüz önermektedir. Tasarım, özellikle genç kullanıcılara hitap eden canlı renkler, akıcı geçişler ve ilgi çekici görsel öğelerle zenginleştirilmiştir. Platformun ana amacı olan meslek keşfi ve VR simülasyonları, görsel olarak vurgulanmıştır.
 
 ## 2. Renk Paleti
 

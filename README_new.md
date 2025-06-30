@@ -1,4 +1,4 @@
-# Gelecek Rotası - ABKÖ Meslek Keşif Platformu (Yeni Tasarım)
+# Gelecek Rotası - VR Meslek Keşif Platformu (Yeni Tasarım)
 
 ## 🎨 Yeni Tasarım Özellikleri
 
